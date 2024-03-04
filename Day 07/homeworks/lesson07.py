@@ -11,7 +11,7 @@
 start = 1
 end = 100  
 
-             # ლუწი რიცხვების დიაპაზონი
+
 print("Even numbers from", start, "to", end, "are:")
 for num in range(start, end + 1):
     if num % 2 == 0:
@@ -51,6 +51,3 @@ my_string = "Hello, world!"
 
 for char in my_string:
     print(char)
-
-
-  
