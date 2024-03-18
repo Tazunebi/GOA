@@ -4,32 +4,32 @@
 
 
 
-my_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+# my_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-# gamravleba
-print("gamravleba")
-for i in range(len(my_list)):
-    my_list[i] *= 2
-print(my_list)
+# # gamravleba
+# print("gamravleba")
+# for i in range(len(my_list)):
+#     my_list[i] *= 2
+# print(my_list)
 
-# gayofa 
-print("gayofa")
-for i in range(len(my_list)):
-    if my_list[i] != 0:
-        my_list[i] /= 3
-print(my_list)
+# # gayofa 
+# print("gayofa")
+# for i in range(len(my_list)):
+#     if my_list[i] != 0:
+#         my_list[i] /= 3
+# print(my_list)
 
-# mimateba
-print("mimateba")
-for i in range(len(my_list)):
-    my_list[i] += 1
-print(my_list)
+# # mimateba
+# print("mimateba")
+# for i in range(len(my_list)):
+#     my_list[i] += 1
+# print(my_list)
 
-# gamokleba
-print("gamokleba")
-for i in range(len(my_list)):
-    my_list[i] -= 1
-print(my_list)
+# # gamokleba
+# print("gamokleba")
+# for i in range(len(my_list)):
+#     my_list[i] -= 1
+# print(my_list)
 
 
 
